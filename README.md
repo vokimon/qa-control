@@ -1,4 +1,4 @@
-# A QA control page for my projects
+# A QA control page for my personal projects
 
 - 
   [yamlns](https://github.com/GuifiBaix/python-yamlns):
@@ -13,6 +13,32 @@
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/back2back/badge.svg?branch=master)](https://coveralls.io/github/vokimon/back2back?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/b2btest)
   ![PyPI - Version](https://img.shields.io/pypi/v/b2btest)
+
+- 
+  [markdown-customblocks](https://github.com/vokimon/markdown-customblocks):
+  [![Build Status](https://travis-ci.org/vokimon/markdown-customblocks.svg?branch=master)](https://travis-ci.org/vokimon/markdown-customblocks)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/markdown-customblocks/badge.svg?branch=master)](https://coveralls.io/github/vokimon/markdown-customblocks?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/markdown-customblocks)
+  ![PyPI - Version](https://img.shields.io/pypi/v/markdown-customblocks)
+
+- 
+  [python-wavefile](https://github.com/vokimon/python-wavefile):
+  [![Build Status](https://travis-ci.org/vokimon/python-wavefile.svg?branch=master)](https://travis-ci.org/vokimon/python-wavefile)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/python-wavefile/badge.svg?branch=master)](https://coveralls.io/github/vokimon/python-wavefile?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/wavefile)
+  ![PyPI - Version](https://img.shields.io/pypi/v/wavefile)
+
+- 
+  [python-deansi](https://github.com/clam-project/python-deansi):
+  [![Build Status](https://travis-ci.org/clam-project/python-deansi.svg?branch=master)](https://travis-ci.org/clam-project/python-deansi)
+  [![Coverage Status](https://coveralls.io/repos/github/clam-project/python-deansi/badge.svg?branch=master)](https://coveralls.io/github/clam-project/python-deansi?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/deansi)
+  ![PyPI - Version](https://img.shields.io/pypi/v/deansi)
+
+
+
+
+
 
 
 
