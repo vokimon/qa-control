@@ -23,7 +23,7 @@
 
 - 
   [python-wavefile](https://github.com/vokimon/python-wavefile):
-  [![Build Status](https://travis-ci.org/vokimon/python-wavefile.svg?branch=master)](https://travis-ci.org/vokimon/python-wavefile)
+  [![CI](https://github.com/vokimon/python-wavefile/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/python-wavefile/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/python-wavefile/badge.svg?branch=master)](https://coveralls.io/github/vokimon/python-wavefile?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/wavefile)
   ![PyPI - Version](https://img.shields.io/pypi/v/wavefile)
