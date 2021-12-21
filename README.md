@@ -16,7 +16,7 @@
 
 - 
   [markdown-customblocks](https://github.com/vokimon/markdown-customblocks):
-  [![Build Status](https://travis-ci.org/vokimon/markdown-customblocks.svg?branch=master)](https://travis-ci.org/vokimon/markdown-customblocks)
+  [![CI Status](https://github.com/vokimon/markdown-customblocks/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/markdown-customblocks/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/markdown-customblocks/badge.svg?branch=master)](https://coveralls.io/github/vokimon/markdown-customblocks?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/markdown-customblocks)
   ![PyPI - Version](https://img.shields.io/pypi/v/markdown-customblocks)
