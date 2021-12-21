@@ -9,7 +9,7 @@
 
 - 
   [b2btest](https://github.com/vokimon/back2back):
-  [![Build Status](https://travis-ci.org/vokimon/back2back.svg?branch=master)](https://travis-ci.org/vokimon/back2back)
+  [![CI](https://github.com/vokimon/back2back/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/back2back/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/back2back/badge.svg?branch=master)](https://coveralls.io/github/vokimon/back2back?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/b2btest)
   ![PyPI - Version](https://img.shields.io/pypi/v/b2btest)
