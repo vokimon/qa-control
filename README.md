@@ -38,7 +38,7 @@
 - 
   [Bioscena](https://github.com/vokimon/bioscena)
   [![CI](https://github.com/vokimon/bioscena/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/bioscena/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/clam-project/python-deansi/badge.svg?branch=master)](https://coveralls.io/github/vokimon/bioscena?branch=master)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/bioscena/badge.svg?branch=master)](https://coveralls.io/github/vokimon/bioscena?branch=master)
 
 
 
