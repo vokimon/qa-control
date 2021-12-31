@@ -1,5 +1,12 @@
 # A QA control page for my personal projects
 
+-
+  [Nissaga](https://github.com/vokimon/nissaga):
+  [![CI](https://github.com/vokimon/nissaga/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/nissaga/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/nissaga/badge.svg?branch=master)](https://coveralls.io/github/vokimon/nissaga?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/nissaga)
+  ![PyPI - Version](https://img.shields.io/pypi/v/nissaga)
+
 - 
   [yamlns](https://github.com/GuifiBaix/python-yamlns):
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
