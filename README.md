@@ -22,6 +22,13 @@
   ![PyPI - Version](https://img.shields.io/pypi/v/b2btest)
 
 - 
+  [b2btest_audio](https://github.com/vokimon/back2back_audio):
+  [![CI](https://github.com/vokimon/back2back_audio/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/back2back_audio/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/back2back_audio/badge.svg?branch=master)](https://coveralls.io/github/vokimon/back2back_audio?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/b2btest_audio)
+  ![PyPI - Version](https://img.shields.io/pypi/v/b2btest_audio)
+
+- 
   [markdown-customblocks](https://github.com/vokimon/markdown-customblocks):
   [![CI Status](https://github.com/vokimon/markdown-customblocks/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/markdown-customblocks/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/markdown-customblocks/badge.svg?branch=master)](https://coveralls.io/github/vokimon/markdown-customblocks?branch=master)
