@@ -49,8 +49,12 @@
 
 
 
-
-
-
-
 Also: https://github.com/Som-Energia/qa-control/blob/main/README.md
+
+## Publicaciones
+
+- [Recetario](https://github.com/vokimon/recetario)
+  [![CI](https://github.com/vokimon/recetario/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/recetario/actions/workflows/main.yml)
+  ![GitHub all releases](https://img.shields.io/github/downloads/vokimon/recetario/total)
+
+
