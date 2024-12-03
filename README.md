@@ -1,11 +1,5 @@
 # A QA control page for my personal projects
 
--
-  [QGMap](https://github.com/vokimon/python-qgmap):
-  [![CI](https://github.com/vokimon/python-qgmap/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/python-qgmap/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/guifibaix/vokimon/badge.svg?branch=master)](https://coveralls.io/github/vokimon/qgmap?branch=master)
-  ![PyPI - Downloads](https://img.shields.io/pypi/dm/qgmap)
-  ![PyPI - Version](https://img.shields.io/pypi/v/qgmap)
 - 
   [yamlns](https://github.com/GuifiBaix/python-yamlns):
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
@@ -30,6 +24,12 @@
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/markdown-customblocks/badge.svg?branch=master)](https://coveralls.io/github/vokimon/markdown-customblocks?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/markdown-customblocks)
   ![PyPI - Version](https://img.shields.io/pypi/v/markdown-customblocks)
+-
+  [python-qgmap](https://github.com/vokimon/python-qgmap):
+  [![CI](https://github.com/vokimon/python-qgmap/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/python-qgmap/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/vokimon/python-qgmap/badge.svg?branch=master)](https://coveralls.io/github/vokimon/python-qgmap?branch=master)
+  ![PyPI - Downloads](https://img.shields.io/pypi/dm/qgmap)
+  ![PyPI - Version](https://img.shields.io/pypi/v/qgmap)
 - 
   [python-wavefile](https://github.com/vokimon/python-wavefile):
   [![CI](https://github.com/vokimon/python-wavefile/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/python-wavefile/actions/workflows/main.yml)
