@@ -1,9 +1,9 @@
 # A QA control page for my personal projects
 
 -
-  [QGMap](https://github.com/guifibaix/qgmap):
-  [![CI](https://github.com/guifibaix/qgmap/actions/workflows/main.yml/badge.svg)](https://github.com/guifibaix/qgmap/actions/workflows/main.yml)
-  [![Coverage Status](https://coveralls.io/repos/github/guifibaix/qgmap/badge.svg?branch=master)](https://coveralls.io/github/guifibaix/qgmap?branch=master)
+  [QGMap](https://github.com/vokimon/qgmap):
+  [![CI](https://github.com/vokimon/qgmap/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/qgmap/actions/workflows/main.yml)
+  [![Coverage Status](https://coveralls.io/repos/github/guifibaix/vokimon/badge.svg?branch=master)](https://coveralls.io/github/vokimon/qgmap?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/qgmap)
   ![PyPI - Version](https://img.shields.io/pypi/v/qgmap)
 - 
