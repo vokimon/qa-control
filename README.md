@@ -1,7 +1,7 @@
 # A QA control page for my personal projects
 
 -
-  [Nissaga](https://github.com/vokimon/qgmap):
+  [QGMap](https://github.com/vokimon/qgmap):
   [![CI](https://github.com/vokimon/qgmap/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/qgmap/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/qgmap/badge.svg?branch=master)](https://coveralls.io/github/vokimon/qgmap?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/qgmap)
