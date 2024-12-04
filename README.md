@@ -49,7 +49,7 @@
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/deansi)
   ![PyPI - Version](https://img.shields.io/pypi/v/deansi)
 - 
-  [Bioscena](https://github.com/vokimon/bioscena)
+  [Bioscena](https://github.com/vokimon/bioscena):
   [![CI](https://github.com/vokimon/bioscena/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/bioscena/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/bioscena/badge.svg?branch=master)](https://coveralls.io/github/vokimon/bioscena?branch=master)
 
