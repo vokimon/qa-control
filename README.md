@@ -13,7 +13,7 @@
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/markdown-customblocks/badge.svg?branch=master)](https://coveralls.io/github/vokimon/markdown-customblocks?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/markdown-customblocks)
   ![PyPI - Version](https://img.shields.io/pypi/v/markdown-customblocks)
-  ![PyPI - Python](https://img.shields.io/pypi/pyversions/markdown-customblocks)
+  ![Python](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fvokimon%2Fmarkdown-customblocks%2Frefs%2Fheads%2Fmaster%2Fpyproject.toml)
 - 
   [yamlns](https://github.com/GuifiBaix/python-yamlns):
   [![CI Status](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml/badge.svg)](https://github.com/GuifiBaix/python-yamlns/actions/workflows/main.yml)
