@@ -48,6 +48,7 @@
   [![Coverage Status](https://coveralls.io/repos/github/clam-project/python-deansi/badge.svg?branch=master)](https://coveralls.io/github/clam-project/python-deansi?branch=master)
   ![PyPI - Downloads](https://img.shields.io/pypi/dm/deansi)
   ![PyPI - Version](https://img.shields.io/pypi/v/deansi)
+  ![PyPI - Python](https://img.shields.io/pypi/pyversions/deansi)
 - 
   [Bioscena](https://github.com/vokimon/bioscena):
   [![CI](https://github.com/vokimon/bioscena/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/bioscena/actions/workflows/main.yml)
