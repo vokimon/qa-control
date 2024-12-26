@@ -54,6 +54,13 @@
   [![CI](https://github.com/vokimon/bioscena/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/bioscena/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/bioscena/badge.svg?branch=master)](https://coveralls.io/github/vokimon/bioscena?branch=master)
 
+- [Godot Asset Library client](https://github.com/vokimon/godot-asset-library-client)
+  [![CI](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml)
+  [![Coverage](https://img.shields.io/coveralls/vokimon/godot-asset-library-client/master.svg?style=flat-square&label=Coverage)](https://coveralls.io/r/vokimon/godot-asset-library-client)
+  [![PyPi](https://img.shields.io/pypi/v/godot-asset-library-client.svg?style=flat-square&label=PyPI)](https://pypi.org/project/godot-asset-library-client/)
+  [![license: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  [![downloads](https://img.shields.io/pypi/dm/godot-asset-library-client.svg?style=flat-square&label=PyPI%20Downloads)](https://pypi.org/project/godot-asset-library-client/)
+
 
 
 Also: https://github.com/Som-Energia/qa-control/blob/main/README.md
