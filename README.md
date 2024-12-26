@@ -59,8 +59,8 @@
   [![Coverage Status](https://img.shields.io/coveralls/vokimon/godot-asset-library-client/master.svg?style=flat-square)](https://coveralls.io/r/vokimon/godot-asset-library-client)
   [![PyPi - Downloads](https://img.shields.io/pypi/dm/godot-asset-library-client.svg?style=flat-square)](https://pypi.org/project/godot-asset-library-client/)
   ![PyPI - Version](https://img.shields.io/pypi/v/godot-asset-library-client)
-  ![PyPI - Python](https://img.shields.io/pypi/pyversions/godot-asset-library-client)
-
+  ![Python](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fvokimon%2Fgodot-asset-library-client%2Frefs%2Fheads%2Fmaster%2Fpyproject.toml)
+  
 
 
 Also: https://github.com/Som-Energia/qa-control/blob/main/README.md
