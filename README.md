@@ -57,7 +57,7 @@
 - [godot-asset-library-client](https://github.com/vokimon/godot-asset-library-client)
   [![CI](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml)
   [![Coverage Status](https://img.shields.io/coveralls/vokimon/godot-asset-library-client/master.svg?style=flat-square)](https://coveralls.io/r/vokimon/godot-asset-library-client)
-  [![PyPi - Downloads](https://img.shields.io/pypi/v/godot-asset-library-client.svg?style=flat-square)](https://pypi.org/project/godot-asset-library-client/)
+  [![PyPi - Downloads](https://img.shields.io/pypi/dm/godot-asset-library-client.svg?style=flat-square)](https://pypi.org/project/godot-asset-library-client/)
   ![PyPI - Version](https://img.shields.io/pypi/v/godot-asset-library-client)
   ![PyPI - Python](https://img.shields.io/pypi/pyversions/godot-asset-library-client)
 
