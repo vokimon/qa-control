@@ -54,7 +54,7 @@
   [![CI](https://github.com/vokimon/bioscena/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/bioscena/actions/workflows/main.yml)
   [![Coverage Status](https://coveralls.io/repos/github/vokimon/bioscena/badge.svg?branch=master)](https://coveralls.io/github/vokimon/bioscena?branch=master)
 
-- [Godot Asset Library client](https://github.com/vokimon/godot-asset-library-client)
+- [godot-asset-library-client](https://github.com/vokimon/godot-asset-library-client)
   [![CI](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml/badge.svg)](https://github.com/vokimon/godot-asset-library-client/actions/workflows/main.yml)
   [![Coverage](https://img.shields.io/coveralls/vokimon/godot-asset-library-client/master.svg?style=flat-square&label=Coverage)](https://coveralls.io/r/vokimon/godot-asset-library-client)
   [![PyPi](https://img.shields.io/pypi/v/godot-asset-library-client.svg?style=flat-square&label=PyPI)](https://pypi.org/project/godot-asset-library-client/)
